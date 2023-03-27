@@ -4,7 +4,8 @@
 
 # AudioLibrary 
 
-Android app to track listening progress on long audio files
+Your perfect companion for long audio files! This app lets you easily track your listening progress and pick up right where you left off. No more guessing or searching through endless audio files, the app allows you to effortlessly resume your listening journey.
+Simply select a folder and the app will automatically scan for audio files. You can then select a file and start listening. The app will automatically save your progress and resume playback from the last position.
 
 
 
