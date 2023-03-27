@@ -14,7 +14,7 @@ align="right"
   alt="Screenshot of AudioLibrary"
   width="170" height="280">
 
-**this app is currently available on the Google Play**
+**currently available on Google Play**
 
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)]("https://play.google.com/store/apps/details?id=com.nova.audiolibrary")
 
