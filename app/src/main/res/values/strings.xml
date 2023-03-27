@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AudioLibrary</string>
+    <string name="action_settings">Folder settings</string>
+    <string name="title_activity_settings">Folder settings</string>
+</resources>
