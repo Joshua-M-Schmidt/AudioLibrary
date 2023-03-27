@@ -6,7 +6,6 @@
 
 Android app to track listening progress on long audio files
 
----
 
 
 <img src="https://github.com/Joshua-M-Schmidt/AudioLibrary/blob/main/assets/screenshot.png?raw=true"
@@ -27,7 +26,6 @@ align="right"
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/WrngPhilosophr)
 
 
----
 
 ## Contributing
 
