@@ -1,10 +1,12 @@
 # AudioLibrary
 Android app to track listening progress on long audio files
 
-available at: https://play.google.com/store/apps/details?id=com.nova.audiolibrary
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)]("https://play.google.com/store/apps/details?id=com.nova.audiolibrary")
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/joshuamschmidt)
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/WrngPhilosophr)
+**if this app is useful for you maybe buy me a coffee or follow me on twitter**
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/joshuamschmidt)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/WrngPhilosophr)
 
 ## Contributing
 
